@@ -1,0 +1,4 @@
+sicknote
+========
+
+Sicknote.ca prototype
